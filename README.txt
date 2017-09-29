@@ -1,5 +1,3 @@
-Name: 
-Surname: 
-Email:
-Date:
+# ping-pong
 
+https://narekmuradyan.github.io/ping-pong/

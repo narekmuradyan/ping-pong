@@ -22,24 +22,8 @@ function menu() {
         "position": "absolute",
         "top": "70%",
         "left": "40%",
-        "font-size":"30"
+        "font-size": "30"
 
     });
-
-    // var sound = $("<img/>").attr("id", "sound").attr("src", "imagaes/sound.png").appendTo("#map").text("Sound")
-    //     .css({
-    //         "position": "absolute",
-    //         "top": "450px"
-    //     });
-
-    // var clikSound = $("<audio/>").appendTo("body");
-    // clikSound[0].src = "sound/clik.wav";
-    // sound.click(function () {
-    //     console.log($(this));
-    //     clikSound(0).play();
-    //     if ($(this).chidren("img").attr("src") == "images/sound.png") {
-    //         $(this).chidren("img").attr("src", "images/soff.jpg")
-    //     }
-    // })
 
 }

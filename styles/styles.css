@@ -20,23 +20,23 @@
   border: 1px solid black;
 }
 
-  #ball {
+  #pabbieA {
   background: grey;
   position: absolute;
   width: 20px;
-  height: 250px;
-  left: 90px;
-  top: 197px;
+  height: 70px;
+  left: 20px;
+  top: 10px;
   border-radius: 10px;
   border: 1px solid black;
 }
-#ball {
+#pabbieB {
   background: grey;
   position: absolute;
   width: 20px;
-  height: 250px;
-  left: 20px;
-  top: 140px;
+  height: 70px;
+  left: 555px;
+  top: 10px;
   border-radius: 10px;
   border: 1px solid black;
 }
